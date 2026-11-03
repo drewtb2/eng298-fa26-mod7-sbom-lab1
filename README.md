@@ -1,4 +1,4 @@
-# UIUC ENG 298 - Spring 2026  
+# UIUC ENG 298 - Fall 2026  
 ## Module 7: Assignment: Secure Software Supply Chain with Software Bill of Materials (SBOMs)
 
 ## **Assignment Overview**
