@@ -1,6 +1,6 @@
 
 {
-  "name": "Module 7: ENG 298 (SP 26): Module 7 Lab: Secure Software Supply Chain with SBOMs",
+  "name": "Module 7: ENG 298 (FA 26): Module 7 Lab: Secure Software Supply Chain with SBOMs",
   "image": "mcr.microsoft.com/devcontainers/base:bookworm",
 
   "features": {
