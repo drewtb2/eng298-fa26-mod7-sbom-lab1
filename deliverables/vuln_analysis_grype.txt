@@ -1,0 +1,4 @@
+NAME   INSTALLED  FIXED IN  TYPE    VULNERABILITY        SEVERITY  EPSS         RISK   
+fpdf2  2.8.3      2.8.8     python  GHSA-wqw6-wpr3-45rh  Medium    0.5% (40th)  0.3    
+fpdf2  2.8.3      2.8.8     python  GHSA-rw7v-4hrq-x6r9  Medium    0.3% (16th)  0.1    
+geopy  2.4.1      2.5.0     python  GHSA-mhvh-fq92-pfmr  Medium    0.2% (10th)  < 0.1
